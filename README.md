@@ -1,6 +1,7 @@
 ## Hi there 👋
+``md
 <p align="center">
-  <img src="https://media.giphy.com/media/E1E5Wn6jy9EVi/giphy.gif" width="600" alt="matrix hacker effect"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00FF00&center=true&vCenter=true&width=435&lines=Junior+Pentester;Web+Security+Researcher;XSS+%7C+SQLi+%7C+Burp+Suite" alt="Typing SVG" />
 </p>
 <h1 align="center">🛡️ Kostiantyn Prudnikov | Junior Penetration Tester</h1>
 
