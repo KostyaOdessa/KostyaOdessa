@@ -1,5 +1,7 @@
 ## Hi there 👋
-
+<p align="center">
+  <img src="https://media.giphy.com/media/E1E5Wn6jy9EVi/giphy.gif" width="600" alt="matrix hacker effect"/>
+</p>
 <h1 align="center">🛡️ Kostiantyn Prudnikov | Junior Penetration Tester</h1>
 
 <p align="center">
