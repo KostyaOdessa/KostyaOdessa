@@ -1,4 +1,4 @@
-## Hi there, I`m Kostya (KostyaOdessa)👋
+## Hi there, I'm Kostya (KostyaOdessa)👋
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00FF00&center=true&vCenter=true&width=435&lines=Junior+Pentester;Web+Security+Researcher;XSS+%7C+SQLi+%7C+Burp+Suite" alt="Typing SVG" />
